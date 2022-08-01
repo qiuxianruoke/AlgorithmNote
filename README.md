@@ -48,9 +48,8 @@
 - memset函数 `Unit02/02_29.cpp`
 - 字符串输入输出1 `Unit02/02_30.cpp`
 - 字符串输入输出2 `Unit02/02_31.cpp`
-- 字符串输入输出3 `Unit02/02_32.cpp`
-- 字符串长度 `Unit02/02_33.cpp`
-- 字符串比较 `Unit02/02_34.cpp`
-- 字符串拼接 `Unit02/02_35.cpp`
-- sscanf函数 `Unit02/02_36.cpp`
-- sprintf函数 `Unit02/02_37.cpp`
+- 字符串长度 `Unit02/02_32.cpp`
+- 字符串比较 `Unit02/02_33.cpp`
+- 字符串拼接 `Unit02/02_34.cpp`
+- sscanf函数 `Unit02/02_35.cpp`
+- sprintf函数 `Unit02/02_36.cpp`
