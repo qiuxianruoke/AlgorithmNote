@@ -1,10 +1,10 @@
 ## 第二章 C/C++快速入门
 
-[基本数据类型](https://sunnywhy.com/sfbj/2/1)01
+[基本数据类型 2.1](https://sunnywhy.com/sfbj/2/1)01
 
 - 输出指定语句 `Unit02/02_01.cpp`
 
-[顺序结构](https://sunnywhy.com/sfbj/2/2/3)01
+[顺序结构 2.2](https://sunnywhy.com/sfbj/2/2/3)01
 
 - 整型输入输出 `Unit02/02_02.cpp`
 - 长整型输入输出 `Unit02/02_03.cpp`
@@ -23,13 +23,13 @@
 
   经验总结：格式化输出的格式规定字符要与数据的数据类型对应，特别是浮点数。
 
-[选择结构](https://sunnywhy.com/sfbj/2/3)
+[选择结构 2.3](https://sunnywhy.com/sfbj/2/3)
 
 - if else `Unit02/02_16.cpp`
 - if嵌套 `Unit02/02_17.cpp`
 - switch语句 `Unit02/02_18.cpp`
 
-[循环结构](https://sunnywhy.com/sfbj/2/4)
+[循环结构 2.4](https://sunnywhy.com/sfbj/2/4)
 
 - 自然数求和 `Unit02/02_19.cpp`
 - break语句 `Unit02/02_20.cpp`
@@ -39,7 +39,7 @@
 - 二重循环2 `Unit02/02_24.cpp`
 
 
-[数组](https://sunnywhy.com/sfbj/2/5)
+[数组 2.5](https://sunnywhy.com/sfbj/2/5)
 
 - 一维数组输入输出 `Unit02/02_25.cpp`
 - 冒泡排序 `Unit02/02_26.cpp`
@@ -53,3 +53,34 @@
 - 字符串拼接 `Unit02/02_34.cpp`
 - sscanf函数 `Unit02/02_35.cpp`
 - sprintf函数 `Unit02/02_36.cpp`
+
+[函数 2.6](https://sunnywhy.com/sfbj/2/6)
+
+- 实现increase函数 `Unit02/02_37.cpp`
+- 实现max3函数 `Unit02/02_38.cpp`
+
+[指针 2.7]()
+
+- 交换指针变量 `Unit02/02_39.cpp`
+- 引用 `Unit02/02_40.cpp`
+
+[结构体的使用 2.8]()
+
+- 结构体与构造函数1 `Unit02/02_41.cpp`
+- 结构体与构造函数2 `Unit02/02_42.cpp`
+- 结构体与构造函数3 `Unit02/02_43.cpp`
+
+[补充 2.9]()
+
+- cin与cout `Unit02/02_44.cpp`
+- 浮点精度比较 `Unit02/02_45.cpp`
+
+[黑河测试 2.10]()
+
+- 单点测试 `Unit02/02_46.cpp`
+- 多点测试1 `Unit02/02_47.cpp`
+- 多变测试2 `Unit02/02_48.cpp`
+- 多点测试3 `Unit02/02_49.cpp`
+- 输出格式1 `Unit02/02_50.cpp`
+- 输出格式2 `Unit02/02_51.cpp`
+- 输出格式3 `Unit02/02_52.cpp`
