@@ -22,3 +22,9 @@
 - 数学函数系列2 `Unit02/02_15.cpp`
 
     经验总结：格式化输出的格式规定字符要与数据的数据类型对应，特别是浮点数。
+
+[选择结构](https://sunnywhy.com/sfbj/2/3)
+
+- if else `Unit02/02_16.cpp`
+- if嵌套 `Unit02/02_17.cpp`
+- switch语句 `Unit02/02_18.cpp`
