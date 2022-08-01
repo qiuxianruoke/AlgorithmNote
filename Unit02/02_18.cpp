@@ -15,11 +15,13 @@ int main() {
             break;
         case 3:
             printf("Three");
+            break;
         case 4:
             printf("Four");
             break;
         case 5:
             printf("Five");
+            break;
         default:
             printf("Greater than 5");
     }
