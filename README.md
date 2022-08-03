@@ -59,23 +59,23 @@
 - 实现increase函数 `Unit02/02_37.cpp`
 - 实现max3函数 `Unit02/02_38.cpp`
 
-[指针 2.7]()
+[指针 2.7](https://sunnywhy.com/sfbj/2/7)
 
 - 交换指针变量 `Unit02/02_39.cpp`
 - 引用 `Unit02/02_40.cpp`
 
-[结构体的使用 2.8]()
+[结构体的使用 2.8](https://sunnywhy.com/sfbj/2/7)
 
 - 结构体与构造函数1 `Unit02/02_41.cpp`
 - 结构体与构造函数2 `Unit02/02_42.cpp`
 - 结构体与构造函数3 `Unit02/02_43.cpp`
 
-[补充 2.9]()
+[补充 2.9](https://sunnywhy.com/sfbj/2/9)
 
 - cin与cout `Unit02/02_44.cpp`
 - 浮点精度比较 `Unit02/02_45.cpp`
 
-[黑盒测试 2.10]()
+[黑盒测试 2.10](https://sunnywhy.com/sfbj/2/10)
 
 - 单点测试 `Unit02/02_46.cpp`
 - 多点测试1 `Unit02/02_47.cpp`
@@ -84,3 +84,17 @@
 - 输出格式1 `Unit02/02_50.cpp`
 - 输出格式2 `Unit02/02_51.cpp`
 - 输出格式3 `Unit02/02_52.cpp`
+
+
+## 第三章 入门篇（1） 入门模拟
+
+[简单模拟](https://sunnywhy.com/sfbj/3/1)
+
+- 3N+1猜想 `Unit03/03_01.cpp`
+- 判断三角形 `Unit03/03_02.cpp`
+- 单调递增序列 `Unit03/03_03.cpp`
+- 数列奇数和 `Unit03/03_04.cpp`
+- 三位数 `Unit03/03_05.cpp`
+- 水仙花数1 `Unit03/03_06.cpp`
+- 水仙花数2 `Unit03/03_07.cpp`
+- 2的幂 `Unit03/03_08.cpp`
