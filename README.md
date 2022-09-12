@@ -98,3 +98,9 @@
 - 水仙花数1 `Unit03/03_06.cpp`
 - 水仙花数2 `Unit03/03_07.cpp`
 - 2的幂 `Unit03/03_08.cpp`
+
+[查找元素](https://sunnywhy.com/sfbj/3/2)
+
+- 查找元素 `Unit03/03_09.cpp`
+- 统计元素个数 `Unit03/03_10.cpp`
+- 寻找元素对 `Unit03/03_11.cpp`
